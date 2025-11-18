@@ -89,10 +89,6 @@ Tasks are stored in a `tasks.json` file in the directory where you first run the
 
 - Node.js >= 14.0.0
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
