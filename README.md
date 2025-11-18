@@ -27,8 +27,8 @@ After installation, you can use `task-cli` command from anywhere!
 Clone the repository and link it locally:
 
 ```bash
-git clone https://github.com/bellvoud/task-tracker.git
-cd task-tracker
+git clone https://github.com/bellvoud/task-tracker-cli.git
+cd task-tracker-cli
 npm link
 ```
 
